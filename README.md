@@ -72,7 +72,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks+for+Visiting+%E2%9C%8B&fontSize=18&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks+for+Visiting+%E2%9C%A8&fontSize=18&fontColor=ffffff" />
 </p>
 
 <!--
